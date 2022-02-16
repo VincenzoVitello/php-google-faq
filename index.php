@@ -84,7 +84,29 @@
     ?>
     </main>
     <footer>
-
+        <div class="ms_container_footer">
+            <ul>
+                <li>Google</li>
+                <div>-</div>
+                <li>Tutto su Google</li>
+                <div>-</div>
+                <li>Privacy</li>
+                <div>-</div>
+                <li>Termini</li>
+                <div>-</div>
+            </ul>
+            <div>
+            <select name="" id="">
+                <option value="">Italiano</option>
+                <option value="">English</option>
+                <option value="">Espanol</option>
+                <option value="">Deutch</option>
+                <option value="">Français</option>
+                <option value="">Portoguese</option>
+            </select>
+        </div>
+        </div>
+        
     </footer>
 </body>
 </html>

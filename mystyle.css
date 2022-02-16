@@ -54,3 +54,38 @@ h2{
 .ms_subquestion, .ms_subanswer{
     padding-left: 20px;
 }
+/* footer */
+.privacy_sections a{
+    text-decoration: none;
+    color: #7a7c80;
+}
+.privacy_sections ul li:hover{
+    border-bottom: none;
+}
+.ms_container_footer{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.ms_container_footer ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    width: 30%;
+}
+.ms_container_footer ul li, .ms_container_footer ul div{
+    color: #7a7c80;
+    font-size: 10px;
+}
+.ms_container_footer ul li:hover{
+    cursor: pointer;
+}
+footer{
+    background-color: #f4f4f4;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
